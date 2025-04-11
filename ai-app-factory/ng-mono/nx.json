@@ -70,12 +70,12 @@
     },
     "@nx/angular:library": {
       "linter": "eslint",
-      "style": "scss",
-      "unitTestRunner": "jest"
+      "unitTestRunner": "jest",
+      "style": "scss"
     },
     "@nx/angular:component": {
-      "linter": "eslint",
       "style": "scss",
+      "linter": "eslint",
       "unitTestRunner": "jest",
       "export": true
     }
