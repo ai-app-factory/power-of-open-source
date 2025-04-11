@@ -1,6 +1,10 @@
 {
   "installation": {
-    "version": "20.7.2"
+    "version": "20.7.2",
+    "plugins": {
+      "prettier": "3.5.3",
+      "eslint": "9.24.0"
+    }
   },
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "nxCloudId": "67f861920ca166d446f149be"
